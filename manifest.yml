@@ -3,9 +3,3 @@ Cartridge-Short-Name: java
 Display-Name: java
 Version: "8_60"
 Source-Url: https://jdk8.java.net/download.html/jdk-8u60-ea-bin-b13-windows-x64-28_apr_2015.exe
-Endpoints:
-  - Private-IP-Name:   IP
-    Private-Port-Name: PORT
-    Private-Port:      8080
-    Public-Port-Name:  PROXY_PORT
-Install-Build-Required: true
